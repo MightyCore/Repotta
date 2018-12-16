@@ -1,0 +1,10 @@
+C:\Users\USER\source\repos\Repotta\Repotta\bin\Debug\Repotta.exe.config
+C:\Users\USER\source\repos\Repotta\Repotta\bin\Debug\Repotta.exe
+C:\Users\USER\source\repos\Repotta\Repotta\bin\Debug\Repotta.pdb
+C:\Users\USER\source\repos\Repotta\Repotta\obj\Debug\Repotta.Properties.Resources.resources
+C:\Users\USER\source\repos\Repotta\Repotta\obj\Debug\Repotta.csproj.GenerateResource.Cache
+C:\Users\USER\source\repos\Repotta\Repotta\obj\Debug\Repotta.csproj.CoreCompileInputs.cache
+C:\Users\USER\source\repos\Repotta\Repotta\obj\Debug\Repotta.exe
+C:\Users\USER\source\repos\Repotta\Repotta\obj\Debug\Repotta.pdb
+C:\Users\USER\source\repos\Repotta\Repotta\obj\Debug\Repotta.FormInputTheDayAttendance.resources
+C:\Users\USER\source\repos\Repotta\Repotta\obj\Debug\Repotta.csprojResolveAssemblyReference.cache
